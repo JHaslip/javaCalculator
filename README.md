@@ -1,2 +1,2 @@
 # javaCalculator
-Basic calculator in Vanilla Java
+Basic calculator in Vanilla Java.
