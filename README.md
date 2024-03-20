@@ -1,2 +1,2 @@
 # javaCalculator
-Calculator with GUI.
+## Simple Calculator with GUI in vanilla Java.
